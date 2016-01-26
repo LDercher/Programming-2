@@ -9,7 +9,7 @@ Double Linked List: This lab extended the previous lab to a doubly-linked list, 
 
 Stack: This lab focused on creating a pointer-based stack, again using templated classes and nodes.
 
-Animal Farm (Interfaces & Inheritance): This lab used a stack interface and a custom object heirarchy built from scratch, to make use of inherited attributes. Includes multiple inheritance and private/protected attributes.
+Animal Pen (Interfaces & Inheritance): This lab used a stack interface and a custom object heirarchy built from scratch, to make use of inherited attributes. Includes multiple inheritance and private/protected attributes.
 
 Iterative Sorting: This lab focused on implementing numerical sorting with iterative methods. Includes BOGOsort, selection sort, and bubble sort, with a timer for each.
 
